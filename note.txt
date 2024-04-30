@@ -1,0 +1,12 @@
+flexbox:
+One dimensional
+width/height, spacing
+use-> simple/small design, align items,content-first design
+
+grid  :
+Multi dimensional
+ Focus->place, viewport
+ uses-->complex design, gap between blocks, multi column layout design, overlap elements
+
+ Media query:
+ view--> mobile, tab, dekstop ensures
